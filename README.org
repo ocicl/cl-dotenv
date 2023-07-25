@@ -1,0 +1,10 @@
+* cl-dotenv
+
+Load .env files from Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ollelauribostrom/cl-dotenv.git   |
+| commit  | a093f5b  |
+| systems | cl-dotenv |
+|---------+-------------------------------------------|
+
